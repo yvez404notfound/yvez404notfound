@@ -20,8 +20,8 @@
 
 <h2 align="left">Latest Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=custom-dropdown-menu&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/custom-dropdown-menu) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/todo-list) 
+[![Weather Gif](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=weather-app&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/weather-app) 
+[![Custom Dropdown Menu](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=custom-dropdown-menu&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/custom-dropdown-menu) 
 
 <h2 align="left">Connect With Me</h2>
 <p align="left">
