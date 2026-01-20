@@ -15,7 +15,7 @@
 </div>
 <div align="center">
 
-  ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yvez404notfound&theme=dark)   ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez_dev?theme=dark)
+  ![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=yvez404notfound&layout=compact&theme=dark)  ![Leetcode Stats](https://leetcard.jacoblin.cool/yvez_dev?theme=dark)
 </div>
 
 <h2 align="left">Latest Projects</h2>
