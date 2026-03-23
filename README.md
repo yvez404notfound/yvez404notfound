@@ -20,10 +20,10 @@
 
 <h2 align="left">Latest Projects</h2>
 
-[![Weather Gif](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=weather-app&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/weather-app) 
-[![Custom Dropdown Menu](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=custom-dropdown-menu&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/custom-dropdown-menu)
-[![Book Library](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=book-library&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/book-library) 
-[![To Do List](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=todo-list&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/todo-list) 
+[![Common Data Structures](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=common-data-structures&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/common-data-structures) 
+[![Testing Practice](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=testing_practice_top&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/testing_practice_top)
+[![Recursion](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=recursion_top&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/recursion_top) 
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=weather-app&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/weather-app) 
 
 <h2 align="left">Connect With Me</h2>
 <p align="left">
