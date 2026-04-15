@@ -20,10 +20,10 @@
 
 <h2 align="left">Latest Projects</h2>
 
+[![Battleship Game](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=battleship&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/battleship) 
 [![Common Data Structures](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=common-data-structures&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/common-data-structures) 
 [![Testing Practice](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=test_driven_development&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/test_driven_development)
 [![Recursion](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=recursion&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/recursion) 
-[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=yvez404notfound&repo=weather-app&theme=dark#gh-dark-mode-only)](https://github.com/yvez404notfound/weather-app) 
 
 <h2 align="left">Connect With Me</h2>
 <p align="left">
