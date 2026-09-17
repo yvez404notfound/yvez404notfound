@@ -1,7 +1,7 @@
 <h1 align="left">
   Yves Casio
 
-  ![Static Badge](https://img.shields.io/badge/status-learning-green) 
+  ![Static Badge](https://img.shields.io/badge/status-developing-green) 
   ![GitHub watchers](https://img.shields.io/github/watchers/yvez404notfound/recome) 
   ![GitHub followers](https://img.shields.io/github/followers/yvez404notfound) 
   ![GitHub User's stars](https://img.shields.io/github/stars/yvez404notfound) 
