@@ -29,6 +29,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yvez404notfound&repo=yvez404notfound%2Fyves-inline-svg&description_lines_count=2&theme=dark)](https://github.com/yvez404notfound/yves-inline-svg)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yvez404notfound&repo=yvez404notfound%2Fbattleship&description_lines_count=2&theme=dark)](https://github.com/yvez404notfound/battleship)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yvez404notfound&repo=yvez404notfound/vite-vp-react&description_lines_count=2&theme=dark)](https://github.com/yvez404notfound/vite-vp-react)
 
 <h2 align="left">Tech Stacks</h2>
 
